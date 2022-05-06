@@ -1,2 +1,15 @@
-# MMotelGo-Admin
-酒店管理-配套后台
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
